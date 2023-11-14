@@ -20,6 +20,9 @@ use App\Http\Controllers\googleController;
 |
 */
 
+
+
+
 Route::get('/', function () {
     return view('welcome');
 });
